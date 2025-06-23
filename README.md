@@ -17,8 +17,7 @@ This project is an AI-powered **Diet Planner** built using **LangChain**, **Stre
 
 ## 📷 Preview
 
-![App Screenshot](https://github.com/mohitkumhar/diet-planner-AI-Agent/assets/preview.gif)  
-_Add a screenshot or demo GIF here_
+![image](https://github.com/user-attachments/assets/b8fd3009-60d3-4242-bce8-2d922d7fe60a)
 
 ---
 
